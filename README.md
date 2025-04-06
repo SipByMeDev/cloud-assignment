@@ -100,7 +100,7 @@ sudo nano /var/www/html/index.html
   </body>
 </html>
 ````
-- There will be keyboard shortcuts displayed on the bottom, you  may use yo edit the index.html.
+- There will be keyboard shortcuts displayed on the bottom, you  may use to edit the index.html.
 - View the webpage:
 ```bash
 gcloud compute instances list
